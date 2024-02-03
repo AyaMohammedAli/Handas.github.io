@@ -1,2 +1,2 @@
-# Handas.github.io
+# Handas
 Handas For Machine Learning Book Notes 
